@@ -76,11 +76,11 @@ class Solution{
         return arr
     }
 }
-let obj=new Solution
-let arr=[1, 2, 3, 4, 5]
-function printList(arr,n)
-{
-    console.log(arr.join(" "))
-}
+// let obj=new Solution
+//let arr=[1, 2, 3, 4, 5]
+// function printList(arr,n)
+// {
+//     console.log(arr.join(" "))
+// }
 
 
