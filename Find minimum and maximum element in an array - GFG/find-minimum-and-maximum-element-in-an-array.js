@@ -75,9 +75,4 @@ class Solution{
         return [min,max]
     }
 }
-let obj=new Solution
-let arr=[3, 2, 1, 56, 10000, 167]
-let n=arr.length
-let result=obj.getMinMax(arr,n)
-result[0];
-result[1];
+
