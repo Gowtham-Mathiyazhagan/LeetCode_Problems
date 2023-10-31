@@ -95,10 +95,10 @@ class Solution {
         
     }
 }
-function printArray(arr,N){
-    console.log(arr.join(" "))
-}
-let obj=new Solution
+// function printArray(arr,N){
+//     console.log(arr.join(" "))
+// }
+// let obj=new Solution
 
-let arr=[ 0, 2, 1, 2, 0 ];
-let n=arr.length
+// let arr=[ 0, 2, 1, 2, 0 ];
+// let n=arr.length
